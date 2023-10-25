@@ -1,7 +1,7 @@
 # "Long Light" Landing Page
 
 ![Long Light Logo](/Long_LightsCover.jpg)
-[Demo Video](https://long-lights.netlify.app/)
+[Visit My Project on Netlify](https://long-lights.netlify.app/)
 
 Welcome to the "Long Light" landing page. In this document, we'll explain the structure and functionality of the landing page, along with the corresponding CSS and JavaScript.
 
